@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.cjnurhf.cn/sitemap.xml
